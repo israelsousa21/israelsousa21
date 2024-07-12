@@ -1,6 +1,7 @@
-<a href="https://israelsousa.com.br">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<!-- <a href="https://israelsousa.com.br">
+ #https://komarev.com/ghpvc/?username=israelsousa21&label=Visitors&color=0e75b6&style=flat
+  <img align="right" src="https://israelsousa.com.br/ghpvc/?username=israelsousa21&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a> -->
 
 [![wakatime](https://wakatime.com/badge/user/516d8355-7cad-4bac-a196-621dbc053ec9.svg)](https://wakatime.com/@516d8355-7cad-4bac-a196-621dbc053ec9)
 
